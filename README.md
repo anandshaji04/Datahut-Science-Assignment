@@ -14,7 +14,6 @@ The script generates a CSV file named:
 
 ### Fields Scraped
 - Product Name  
-- Category  
 - Sale Price  
 - Original Price  
 - Discount Percentage  
